@@ -1,0 +1,126 @@
+* {
+  box-sizing: border-box;
+  text-align: left;  
+    
+}
+
+#content {
+
+	width: 960px;
+	overflow: auto;
+	clear: both;
+
+}
+
+.wrapper {
+
+	width: 960px;
+	margin: 0 auto;
+
+}
+
+body {
+	
+	background-image: url(../images/natwhite.png);
+	margin: 0;
+	padding: 0;
+
+}
+
+header {
+	
+	overflow: auto;
+	background: #ffffff;	
+	border-bottom: 5px solid;
+	border-color: #cccccc;
+	padding-top: 0;
+	margin-top: 0;
+	border-top: 0;
+	
+}
+
+h2 {
+
+	border-bottom: 5px solid;
+	border-color: #cccccc;
+
+}
+
+#logo	{
+
+	display: inline-block;
+	color: #ffffff;	
+	background: #4aaaa5;
+	float: left;
+	padding: 35px;
+	text-align: center;
+
+}
+
+#menu {
+
+	display: inline-block;
+	float: right;
+
+}
+
+#menu ul li {
+
+	display: inline-block;
+	float: left;
+	padding:10px;
+	text-align: center;
+
+
+}
+
+.content-box {
+
+	background: #ffffff;
+	padding: 10px;
+	border: 1px solid #dddddd;
+	margin-top: 20px;
+	margin-bottom: 20px;
+
+}
+
+
+#about-me {
+
+	width: 650px;
+	float: left;	
+		
+
+}
+
+.profile {
+
+	float: left;
+	margin: 10px;
+
+}
+
+#sidebar {
+
+	float: right;
+	width: 270px;
+
+}
+
+p { 
+
+	
+ }
+
+footer {
+
+	text-align: center;
+	clear: both;
+	background: #666666;
+	color: #ffffff;
+	height: 100px;
+	line-height: 100px;
+	border-top: 10px solid;
+	border-color: #4aaaa5;
+
+}
